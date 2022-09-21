@@ -1,0 +1,61 @@
+@media (max-width:600px) {
+    #navigation{
+        width: 100%;
+        float: left;
+    }
+    .logo-part{
+        text-align: center;
+    }
+    .meno-part{
+        width: 100%;
+        float: left;
+        text-align: center;}
+        .btn-part a button{
+            /*! width:100; */
+            text-align: center;
+            padding: 10px;
+            position: absolute;
+            top: 0;
+            right: 0;
+        }
+
+    
+    #header{
+        width: 100%;
+        float: left;
+        background-image: url('../imag/musicology-recovered.png');
+
+        /*! background-size: contain; */
+        background-repeat: no-repeat;
+        height: 200px;
+        z-index: -1;
+    }
+    .writting-part{
+        
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    }
+    .writting-part h1{
+    font-size: 40px;    
+    margin: 0;
+    padding: 0;
+    }
+    .writting-part p {
+        margin: 0;
+        padding: 0px 17px;
+        text-align: center;
+        font-size: 17px;
+        width: 100%;
+    }
+    
+}
+@media (min-width:601px) and (max-width:750px) {
+
+}
+@media (min-width:751px) and (max-width:900px) {
+
+}
+@media (min-width:901px) and (max-width:1200px) {
+    
+}

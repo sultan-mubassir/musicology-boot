@@ -1,0 +1,474 @@
+*{
+margin: 0;
+padding: 0;
+border: 0;
+outline: 0;
+box-sizing: border-box;
+text-decoration: none;
+text-align: center;
+}
+#navigation{
+    width: 100%;
+    float: left;
+    background-color: #303030;
+    color: #ffffff;
+}
+.containar{
+    width: 90%;
+    margin: auto;
+}
+.logo-part{
+width: 25%;
+float: left;
+margin-top: 10px;
+}
+.meno-part{
+width: 50%;
+float: left;
+text-align: center;
+}
+.search-part{
+width: 25%;
+float: left;
+text-align: right;
+margin: 15px 0px;
+padding: 10px;
+background-color: transparent;
+}
+.search-part:hover{
+    background-color: #ffffff33;
+    border-radius: 4px;
+}
+.meno-part li{
+    color: #ffffff;
+    padding: 10px;
+    margin: 15px 0px;
+    background-color: transparent;
+    text-transform: capitalize;
+    border-radius: 4px;
+    display: inline-block;
+}
+.meno-part a{
+    color: #ffffff;
+    font-size: 25px;
+    font-weight: 500;
+}
+.meno-part li:hover{
+    background-color: #ffffff33;
+}
+#header{
+    width: 100%;
+    float: left;
+    background-image: url(../imag/musicology-recovered.png);
+    background-size: cover;
+    
+    }
+.header-part{
+    width: 100%;
+    margin: auto;
+}
+.writting-part {
+    width: 40%;
+    text-align: start;
+    margin: 250px 30px 100px 30px;
+    color: #fff;
+}
+.writting-part h1 {
+    font-size: 100px;
+    font-weight: 400;
+    margin-top: 320px;
+    margin-left: 28px;
+}
+.writting-part p{
+    font-size: 25px;
+    width: 80%;
+    margin-left: 28px;
+    text-align: justify;
+}
+.writting-part a button {
+    background-color: #e8631c;
+    width: 40%;
+    margin-top: 20px;
+    font-size: 20px;
+    padding: 7px 15px;
+    text-transform: uppercase;
+    border-radius: 5px;
+    color: #fff;
+    border: 1px solid transparent;
+    font-family: 'Oswald', sans-serif;
+    margin-left: 28px;
+}
+#section{
+    width: 100%;
+    float: left;
+    text-align: center;
+    background-color:  #e8631c;
+    background-image: url(../imag/Musicology5.png);
+    background-size: cover;
+    color: #ffffff;
+}
+.containar{
+    width: 90%;
+    margin: auto;
+}
+.writting-part2 {
+    width: 100%;
+        margin-top: 60px;
+        color: #fff;
+        text-transform: capitalize;
+}
+.global-heading{
+    font-size: 60px;
+    font-weight: 600;
+    margin-bottom: 50px;
+    }
+.writting-part2 p{
+    font-size: 35px;
+    text-align: center;
+    
+}
+.pic-box-part{
+    width: 100%;
+    float: left;
+}
+
+
+    .pic-part {
+    width: 25%;
+    float: left;
+    margin: 0px 40px;
+    margin-top: 50px;
+    background-color: #303030;
+    text-align: center;
+    color: #fff;
+    margin-bottom: 60px;
+}
+.pic-part img{
+    width: 100%;text-align: center;
+    }
+.pic-part h2{
+    font-size: 40px;
+    font-weight: 400;
+}
+.pic-part p{
+    font-size: 20px;
+    margin-bottom: 50px;
+    margin-top: 20px;
+}
+#icon{
+    width: 100%;
+    float: left;
+    text-align: center;
+    background-color:  #303030;
+    background-image: url(../imag/Musicology5.png);
+    background-size: cover;
+    color: #ffffff;
+}
+.writting-icon-part{
+    width: 100%;
+        margin-top: 60px;
+        color: #fff;
+}
+.writting-icon-part p{
+    font-size: 35px;
+    text-align: center;
+    
+}
+.box-icon-part{
+    width: 100%;
+    float: left;
+    }
+.box-icon{
+    width: 25%;
+    float: left;
+    margin: 0px 40px;
+    margin-top: 50px;
+    background-color: #e8631c;
+    text-align: center;
+    color: #fff;
+    margin-bottom: 80px;
+    border-radius: 10px;
+}
+.box-icon img{
+    width: 30%;text-align: center;
+    margin: 50px;
+        }
+        .box-icon h2{
+            font-size: 40px;
+            font-weight: 400;
+        }
+        .box-icon p{
+            font-size: 20px;
+        }
+        .box-icon a button {
+            background-color: #303030;
+            width: 80%;
+            margin-top: 20px;
+            font-size: 20px;
+            padding: 7px 15px;
+            text-transform: uppercase;
+            border-radius: 5px;
+            color: #fff;
+            border: 1px solid transparent;
+            font-family: 'Oswald', sans-serif;
+            margin-left: 28px;
+        }
+        .box-icon  button{
+            margin-bottom: 60px;
+            text-align: center;
+            margin-right: 25px;
+        }
+        #dance{
+            width: 100%;
+            float: left;
+            color: #ffffff;
+            background-color: #303030;
+
+        }
+        .right-dance-part{
+            width: 100%;
+            float: left;
+        }
+        .box-dance-part{
+        width: 100%;
+        float: left;
+    }
+        .right-dance1{
+            
+            float: left;
+            background-size: cover;
+            background-color: #303030;
+            width: 50%;
+        }
+        .right-dance2{
+            
+            float: left;
+            background-color: #e8631c;
+            background-size: cover;
+            background-image: url(imag/musicology7.png);
+            width: 50%;
+            text-align: center;
+        }
+        .right-dance3{
+            
+            float: left;
+            background-color: #e8631c;background-size: cover;
+            background-image: url(imag/musicology9.png);
+            width: 50%;
+            text-align: center;
+        }
+        .right-dance4{
+            
+            float: left;
+            background-color: #303030;
+            width: 50%;
+        }
+        .right-dance2 h1{
+            padding-top: 360px;
+            margin-bottom: 42px;
+        }
+        .right-dance3 h1{
+            padding-top: 360px;
+            margin-bottom: 42px;
+
+        }
+        .right-dance2 p{
+            font-size: 30px;
+            margin-bottom: 70px;
+            text-align: center       
+            ;
+            }
+        .right-dance3 p{
+            font-size: 30px;
+            margin-bottom: 68px;
+            text-align: center;
+        }
+        .right-dance2 a button{
+            background-color: #303030;
+            width: 80%;
+            margin-top: 30px;
+            font-size: 20px;
+            padding: 7px 15px;
+            text-transform: uppercase;
+            border-radius: 5px;
+            color: #fff;
+            border: 1px solid transparent;
+            font-family: 'Oswald', sans-serif;
+            margin-left: 28px;
+            margin-bottom: 300px;
+        }
+        .right-dance3 a button{
+            background-color: #303030;
+            width: 80%;
+            margin-top: 30px;
+            font-size: 20px;
+            padding: 7px 15px;
+            text-transform: uppercase;
+            border-radius: 5px;
+            color: #fff;
+            border: 1px solid transparent;
+            font-family: 'Oswald', sans-serif;
+            margin-left: 28px;margin-bottom: 300px;
+        }
+            #state{
+            width: 100%;
+            float: left;
+            background-color: #303030;
+            color: #ffffff;
+        }
+        .writting-state-part{
+            width: 100%;
+            float: left;
+            text-align: center;
+        }
+        .writting-state-part p{
+            font-size: 35px;
+            text-align: center;
+            margin-bottom: 80px;
+            
+        }
+        .writting-state-part h1{
+            margin-top: 60px;
+        }
+        .box-state-part{
+            width: 100%;
+            float: left;
+            
+        }
+        .box-state{
+            width: 30%;
+            float: left;
+            
+            padding: 20px 150px;
+        }
+        .box-state h2{
+            font-size: 55px;
+            font-weight: 600;
+            text-align: center;
+            
+        }
+        .box-state p{
+            font-size: 25px;
+            font-weight: 300;
+            text-align: center;
+            margin-bottom: 100px;
+            }
+            #picture{
+                width: 100%;
+                float: left;
+                background-image: url(../imag/musicologyp1.png);
+                color: #ffffff;
+            }
+            .picture-part{
+                width: 100%;
+                float: left;
+                
+            }
+            .picture-part p{
+                font-size: 35px;
+                font-weight: 300;
+                margin-top: 400px;
+                margin-bottom: 60px;
+                
+            }
+            .picture-part h2{
+                font-size: 45px;
+                font-weight: 500;
+                margin-bottom: 400px;
+            }
+            #form{
+                width: 100%;
+                float: left;
+                background-image: url(../imag/Musicologyp2.png);
+                color: #ffffff;
+                background-color: #e8631c;
+            }
+            .writting-form-part{
+                width: 100%;
+                float: left;
+            }
+            .writting-form-part h1{
+                margin: 80px;
+            }
+            .writting-form-part p{
+                font-size: 35px;
+                font-weight: 300;
+                margin-bottom: 50px;       
+                
+            }
+            .form-part{
+                width: 100%;
+                float: left;
+            }
+            .Your-Email{
+                width: 40%;float: left;
+                padding: 10px;
+                background-color: #ffffff;
+                color: rgba(0, 0, 0, 0.103);margin-bottom: 80px;
+                margin-left: 300px;
+                text-transform: uppercase;
+            }
+            .form-part input{
+                font-size: 20px;
+                float: left;
+                color: rgba(0, 0, 0, 0.514);
+            }
+            #btn{
+                width: 15%;
+                float: left;
+                padding: 10px;
+                background-color: #303030;
+                color: #ffffff;
+                text-transform: uppercase;
+            }
+            #finis{
+                width: 100%;
+                float: left;
+                background-color: #303030;
+                color: #ffffff;
+            }
+            .writting-finis-part{
+                width: 100%;
+                float: left;
+                
+            }
+            .finis-part{
+                width: 25%;
+                float: left;
+                color: #ffffff;
+                margin-bottom: 50px;
+            }
+            .finis-part h2{
+                margin-top: 60px;
+                margin-bottom: 20px;
+            }
+            .finis-part p{
+                font-size: 19px;
+                font-weight: 300;
+                text-align: justify;
+                margin-bottom: 30px;
+                
+            }
+            
+            .finis-part li{
+                font-size: 20px;
+                font-weight: 300;
+                color: #ffffff;
+                text-align: center;
+                margin-left: 110px;
+                display: flex;
+                margin-bottom: 10px;
+            }
+            .finis-part a{
+                font-size: 20px;
+                font-weight: 300;color: #ffffff;
+                text-align: right;
+            }
+            .finis-icon i{
+                padding: 10px;
+                background-color: #ffffff;
+                color: #303030;
+                width: 35px;
+                border-radius: 50%;
+                margin: 10px;
+            }
